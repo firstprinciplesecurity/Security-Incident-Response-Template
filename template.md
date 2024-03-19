@@ -1,4 +1,4 @@
-# Security Incident/Investigation Template
+# 🔅Security Incident/Investigation Template
 
 ## 👑 Authors: Ashley Tolbert and Swathi Joshi 
 #### 🗓️ Publish Date: March 19, 2024
