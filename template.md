@@ -7,7 +7,7 @@
 
 Best Practice is to have a numbering or naming system. Link it at the top of the document. Make sure access permissions are accurate. 
 
-**[Confidential] [Ristricted] [Highly Ristricted]** 
+**[Confidential] [Restricted] [Highly Restricted]** 
 
 Use the correct classification type based on your internal company policy/guideline. 
 
@@ -58,7 +58,7 @@ Use the correct classification type based on your internal company policy/guidel
 - Action item 2- Owner 2 
 - Action item 3- Owner 2 
 
-**Incident Categorization:** If there is a way you label incidents this would be a good spot to assign a label. DDOS, exfiltration, malware, crypto mining, and misconfiguration to name a few. Extremely useful when you want to do a year in review of incidents or look at quarterly trending.    
+**Incident Categorization:** If there is a way you label incidents this would be a good spot to assign a label. DDOS, exfiltration, malware, crypto mining, and misconfiguration to name a few. Extremely useful when you want to do a year-in-review of incidents or look at quarterly trending.    
 
 **Incident Cost (Aspirational):** One of the things Ashley and I have been toying with on the side is figuring out the cost of an incident in two ways 
 - How much did the incident cost to handle?  (Responder time)
