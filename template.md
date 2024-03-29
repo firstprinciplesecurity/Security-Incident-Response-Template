@@ -7,7 +7,7 @@
 
 Best Practice is to have a numbering or naming system. Link it at the top of the document. Make sure access permissions are accurate. 
 
-**[Confidential] [Ristricted] [Highly Ristricted]** 
+**[Confidential] [Restricted] [Highly Restricted]** 
 
 Use the correct classification type based on your internal company policy/guideline. 
 
